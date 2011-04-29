@@ -4,15 +4,15 @@
 	id		= "com.phonegap.getting.started"
 	version 	= "1.0.0">
 
-	<name>PhoneGap: Getting Started</name>
+	<name>RMF</name>
 
 	<description>
-		A template for getting started with PhoneGap development and build.phonegap.com
+		RMF TESTING
 	</description>
 
 	<author href="http://alunny.github.com"
-		email="andrew.lunny@nitobi.com">
-		Andrew Lunny
+		email="dharmesh.hingu@gmail.com">
+		Dharmesh
 	</author>
 
 	<gap:platforms>
